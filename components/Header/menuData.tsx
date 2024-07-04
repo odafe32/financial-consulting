@@ -45,6 +45,15 @@ const menuData: Menu[] = [
         newTab: false,
         path: "/faqs",
       },
+      {
+        id: 35.2,
+        title: "FinancialConsulting",
+        newTab: false,
+        path: "/FinancialConsulting",
+      },
+     
+     
+ 
    
     ],
   },
