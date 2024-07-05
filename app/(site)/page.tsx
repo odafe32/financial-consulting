@@ -51,7 +51,7 @@ export default function Home() {
       <FAQ />
       <Testimonial />
       <Pricing />
-      <Contact />
+
       <Blog />
     </main>
   );
